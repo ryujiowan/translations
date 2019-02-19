@@ -1,6 +1,5 @@
 ---
-# jp title missing
-title: Re-signing an .ipa
+title: IPAファイルの再署名
 menu:
   ios-code-signing:
     weight: 7
