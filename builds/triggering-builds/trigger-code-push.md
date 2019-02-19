@@ -1,6 +1,6 @@
 ---
 # jp title missing
-title: Triggering builds with code push
+title: コードプッシュによるビルドの開始
 menu:
   triggering-builds:
     weight: 2
